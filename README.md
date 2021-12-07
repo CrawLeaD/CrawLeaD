@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-I am a new guy around here.I will trying to learn programming
+
 --->
